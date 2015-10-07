@@ -1,0 +1,12 @@
+This is a string program to calculated MEP(minimiun energy path).
+
+I edited the original code distributed by Amit Samanta and Weinan E et al.
+I change the parts of calculating error ,energy calculation and force calculation. It can calculate the MEP of numerical PES.
+
+
+usage are presented in my blog:
+http://chen-xin.tk/blog/index.php/archives/21/
+
+
+more details about string please see:
+http://web.math.princeton.edu/string/string0_MEP.html
