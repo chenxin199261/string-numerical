@@ -1,0 +1,1 @@
+ifort -o test.exe  dcopy.f  energy.f  force.f  inout.f intpol.f main.f mvper.f mvtan.f tangent.f spline-2d.f
